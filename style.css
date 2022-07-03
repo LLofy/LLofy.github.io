@@ -10,8 +10,8 @@ body {
   color:#000;
   width:100%;
 }
-.botao{
-  margin-right: 50,5rem !important;
+.botao-escuro{
+  color:#fff;
 }
 
 .navbar {

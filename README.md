@@ -1,2 +1,2 @@
 # Site-zero
-Um site para mostrar o meu portif
+Um site para mostrar o meu portifolio
